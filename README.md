@@ -6,6 +6,14 @@ Predicting daily gold prices using Python and machine learning. This repository 
 - Status: Draft — ready to customize and run
 - Language: Python
 
+## 🎥 Demo
+
+Here’s a quick look at the Gold Price Prediction in action:
+
+<p align="center">
+  <img src="https://i.imgur.com/WvZh3AL.gif" alt="Gold-Price-Prediction" width="600"/>
+</p>
+
 ## Table of Contents
 
 - [Overview](#overview)
