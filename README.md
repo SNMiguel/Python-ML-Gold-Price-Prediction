@@ -1,4 +1,4 @@
-# Python ML Gold Price Prediction
+# 🪙Python ML Gold Price Prediction
 
 Predicting daily gold prices using Python and machine learning. This repository contains data processing pipelines, exploratory analysis, model training and evaluation code, and example notebooks showing how different models (statistical and ML-based) perform on historical gold-price data.
 
